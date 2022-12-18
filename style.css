@@ -225,6 +225,9 @@ h2,
 
 /* RESPONSIVE */
 @media screen and (max-width: 1136px) {
+    .nav{
+        display: none;
+    }
     
     .card-1 img,
     .workings img,
