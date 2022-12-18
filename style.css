@@ -366,6 +366,9 @@ h2,
     *{
         flex-wrap: wrap;
     }
+    .nav{
+        display: none;
+    }
     .card-1 img,
     .workings img,
     .convenience img,
