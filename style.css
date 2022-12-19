@@ -362,9 +362,19 @@ h2,
    
 }
 
+@media screen and (max-width: 500px) {
+    .head{
+        height: 6.4rem;
+    }
+
+}
+
 @media screen and (max-width: 461px) {
     *{
         flex-wrap: wrap;
+    }
+    .head h1{
+        margin-left: 3rem;
     }
     .nav{
         display: none;
@@ -415,6 +425,12 @@ h2,
         justify-content: center;
     }
    
+}
+
+@media screen and (max-width: 390px) {
+    .head{
+        height: 7rem;
+    }
 }
 
 @media screen and (max-width: 380px) {
