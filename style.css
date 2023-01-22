@@ -71,6 +71,36 @@
     color: rgb(19,193,236);
     text-decoration: none;
 }
+
+/* SIGN UP FORM */
+.sign-up{
+    margin-left: 40%;
+}
+.sign-up form{
+    width: 30rem;
+    background-color: red;
+}
+.form{
+    padding-left: 20px;
+}
+.form h1{
+    color: rgb(19,193,236);
+    margin-left: 4rem;
+}
+input{
+    padding: 7px;
+    width: 15rem;
+    border-radius: 7px;
+    border-color: rgb(19,193,236);
+}
+button{
+    margin-left: 4rem;
+    padding: 7px;
+    width: 9rem;
+    background-color: rgb(19,193,236);
+    border-radius: 7px;
+}
+
 /* ANIMATIOM */
 .animation{
     width: 100px;
