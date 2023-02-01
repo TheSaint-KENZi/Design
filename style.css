@@ -252,6 +252,24 @@ h2,
 .subscribe input:active{
     background-color: rgb(19,193,236);
 }
+/* FAQS */
+.bbn{
+    text-align: center;
+}
+
+.faqs{
+    display: flex;
+    width: 95%;
+    margin: 2rem;
+    justify-content: space-around;
+    box-shadow: 0 7px 7px 7px rgb(215, 213, 213);
+}
+.faqs img{
+    width: 600px;
+}
+.signl{
+    color: rgb(19,193,236);
+}
 
 /* RESPONSIVE */
 @media screen and (max-width: 1136px) {
